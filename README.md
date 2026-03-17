@@ -57,11 +57,6 @@ I enjoy turning ideas into polished projects — from static UI clones and portf
    - Live: https://audio-stream-nine.vercel.app/
    - Notes: Focus on seamless playback and content management for music & podcasts.
 
-4. [Portfolio-Website](https://github.com/Anandprasad03/Portfolio-Website) 💼
-   - Personal portfolio showcasing skills and projects (HTML5/CSS3)
-   - Stars: 0 | Language: CSS | Forks: 0 | Open issues: 0
-   - Notes: Modern responsive design with glassmorphism and smooth animations.
-
 (For full list of repos, visit my GitHub: https://github.com/Anandprasad03)
 
 
